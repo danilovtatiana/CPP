@@ -13,7 +13,8 @@ int main()
     // // variables 
 
     // int x = 6;  //integers
-    // double y = 3.14; //float
+    // double y = 3.14; //float number 8 bytes (15 digits)
+    // float m = 7.19; // float number 4 bytes (7 digist)
     // char z = 'z'; //char
     // string d = "abcd"; //string
 

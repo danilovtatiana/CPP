@@ -32,12 +32,14 @@ int main()
 
     int a,b;
     int sum;
+    
     cout << "Type a number: ";
     cin >> a;
-    cout << " Type another number: ";
+    cout << "Type another number: ";
     cin >> b;
     sum = a + b;
-    cout << "Sum is: " << sum;
+
+    cout << "Sum is: " << sum << "\n";
 
     return 0;
 }
