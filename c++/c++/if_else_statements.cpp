@@ -1,30 +1,30 @@
+////
+////  if_else_statements.cpp
+////  c++
+////
+////  Created by Taniusa :* on 02.04.2021.
+////
 //
-//  if_else_statements.cpp
-//  c++
+//#include "iostream"
+//using namespace std;
 //
-//  Created by Taniusa :* on 02.04.2021.
+//int main()
+//{
+//    int x = 20;
+//    int y = 30;
+//    
+//    if (x > y){
+//        cout << "x is greater than y" <<"\n";
+//    } else if (x < y){
+//        cout << "x is smaller than y" <<"\n";
+//    } else {
+//        cout << "x is equal to y" <<"\n";
+//    }
+//    
+//    //short hand if-else
+//    string result = (x > y) ? "x is greater than y" : "x is smaller than y";
+//    cout << result <<"\n";
+//}
 //
-
-#include "iostream"
-using namespace std;
-
-int main()
-{
-    int x = 20;
-    int y = 30;
-    
-    if (x > y){
-        cout << "x is greater than y" <<"\n";
-    } else if (x < y){
-        cout << "x is smaller than y" <<"\n";
-    } else {
-        cout << "x is equal to y" <<"\n";
-    }
-    
-    //short hand if-else
-    string result = (x > y) ? "x is greater than y" : "x is smaller than y";
-    cout << result <<"\n";
-}
-
-
-
+//
+//
