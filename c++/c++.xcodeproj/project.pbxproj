@@ -19,6 +19,7 @@
 		46E438BA261716E80063CD51 /* arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 46E438B9261716E80063CD51 /* arrays.cpp */; };
 		46E438BD26171A0E0063CD51 /* references.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 46E438BC26171A0E0063CD51 /* references.cpp */; };
 		46E438C026171C8A0063CD51 /* pointers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 46E438BF26171C8A0063CD51 /* pointers.cpp */; };
+		46E438C32617206F0063CD51 /* functions.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 46E438C22617206F0063CD51 /* functions.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		46E438B9261716E80063CD51 /* arrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = arrays.cpp; sourceTree = "<group>"; };
 		46E438BC26171A0E0063CD51 /* references.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = references.cpp; sourceTree = "<group>"; };
 		46E438BF26171C8A0063CD51 /* pointers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pointers.cpp; sourceTree = "<group>"; };
+		46E438C22617206F0063CD51 /* functions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = functions.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				46E438B126170E090063CD51 /* for_loop.cpp */,
 				46E438BF26171C8A0063CD51 /* pointers.cpp */,
 				46E438B9261716E80063CD51 /* arrays.cpp */,
+				46E438C22617206F0063CD51 /* functions.cpp */,
 				46E438BC26171A0E0063CD51 /* references.cpp */,
 				46E438B6261712F00063CD51 /* break_continue_statements.cpp */,
 				46E438AD26170C480063CD51 /* while_loop.cpp */,
@@ -157,6 +160,7 @@
 				46E4389B2614FC340063CD51 /* data_types.cpp in Sources */,
 				46E438AB2616FD730063CD51 /* switch statements.cpp in Sources */,
 				46E438A72616FA470063CD51 /* if_else_statements.cpp in Sources */,
+				46E438C32617206F0063CD51 /* functions.cpp in Sources */,
 				46E438BD26171A0E0063CD51 /* references.cpp in Sources */,
 				46E438B7261712F00063CD51 /* break_continue_statements.cpp in Sources */,
 				46E438B326170E090063CD51 /* for_loop.cpp in Sources */,
