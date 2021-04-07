@@ -9,7 +9,7 @@
 //using namespace std;
 //
 //void myFunction();
-//void myName(string name){ //parameters 
+//void myName(string name){ //parameters
 //    cout <<name << "\n";
 //}
 //
